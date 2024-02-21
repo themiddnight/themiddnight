@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: the.midnight.k.0173@gmail.com
 
-<hr>
+---
 
 <picture>
   <source
@@ -27,6 +27,8 @@
   />
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=themiddnight" />
 </picture>
+
+Stats card by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 themiddnight/themiddnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
